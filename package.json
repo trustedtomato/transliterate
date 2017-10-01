@@ -1,0 +1,15 @@
+{
+  "name": "transliterate",
+  "version": "1.0.0",
+  "description": "A collection of unified transliteration libraries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transliterate",
+    "transliteration"
+  ],
+  "author": "Halasi Tamás <trusted.tomato@gmail.com>",
+  "license": "ISC"
+}
